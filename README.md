@@ -4,7 +4,7 @@ Welcome to the CMS Repositories Index! This repository acts as a central hub for
 
 ## 🚀 Overview
 
-This repository serves as a centralized index that documents and organizes links to the various repositories that make up our CMS project. It simplifies navigation and management of distributed code by providing clear and structured references.
+This repository serves as a centralized index that documents and organizes links to the various repositories that make up our CMS project. It simplifies navigation and management of distributed code by providing clear and structured references for more information visit [ABOUT](ABOUT)..
 
 This repository provides:
 - 📂 **A structured list of repositories** with links to key CMS components.
