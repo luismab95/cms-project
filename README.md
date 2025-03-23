@@ -9,7 +9,6 @@ This repository serves as a centralized index that documents and organizes links
 This repository provides:
 - 📂 **A structured list of repositories** with links to key CMS components.
 - 📝 **A brief description** of each repository and its role in the system.
-- 🔗 **Access and contribution guidelines** for developers.
 - 📑 **Setup guide** with references to relevant documentation.
 
 
