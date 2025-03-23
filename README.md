@@ -1,23 +1,23 @@
-# Multi-Repository Integration
+# 📌 CMS Repositories Index
 
-## Overview
-This project integrates multiple repositories into a single unified repository to streamline development, reduce redundancy, and improve maintainability.
+Welcome to the CMS Repositories Index! This repository acts as a central hub for organizing and managing the different repositories that make up our CMS project.
 
-## Repositories Included
-The following repositories have been merged into this project:
+## 🚀 Overview
 
-- **Repo 1** - Description of repo 1
-- **Repo 2** - Description of repo 2
-- **Repo 3** - Description of repo 3
-- **Repo 4** - Description of repo 4
-- **Repo 5** - Description of repo 5
-- **Repo 6** - Description of repo 6
-- **Repo 7** - Description of repo 7
+This repository serves as a centralized index that documents and organizes links to the various repositories that make up our CMS project. It simplifies navigation and management of distributed code by providing clear and structured references.
 
-## Repository Structure
+This repository provides:
+- 📂 **A structured list of repositories** with links to key CMS components.
+- 📝 **A brief description** of each repository and its role in the system.
+- 🔗 **Access and contribution guidelines** for developers.
+- 📑 **Setup guide** with references to relevant documentation.
+
+
+## 📌 Repository Structure
+
 After merging, the project follows this structure:
 
-```
+```plaintext
 /cms-project
 │-- cms-project/
 │-- cms-lib-database/
@@ -27,28 +27,34 @@ After merging, the project follows this structure:
 │-- cms-ms-email/
 │-- cms-ms-cms/
 │-- docker/
+│-- docs/
 │-- .gitignore
 │-- LICENSE
 │-- README.md
 ```
 
-## How to Clone
-To clone the entire repository, use:
+## 🔗 Repositories
 
-```sh
-git clone --recurse-submodules https://github.com/your-org/your-repo.git
-```
+| Repository | Description | Link |
+|------------|-------------|------|
+| Frontend web | Frontend pages | [Repo Link](https://github.com/luismab95/cms-frontend.git) |
+| Lib Database | Lib to manage database | [Repo Link](https://github.com/luismab95/cms-lib-database.git) |
+| Microservice Auth | Authentication and authorization services | [Repo Link](https://github.com/luismab95/cms-ms-auth.git) |
+| Microservice Security | Security services | [Repo Link](https://github.com/luismab95/cms-ms-security.git) |
+| Microservice Cms | Cms services | [Repo Link](https://github.com/luismab95/cms-ms-cms.git) |
+| Microservice File | File services | [Repo Link](https://github.com/luismab95/cms-ms-file.git) |
+| Microservice Email | Email services | [Repo Link](https://github.com/luismab95/cms-ms-email.git) |
 
-If submodules are not initialized, run:
+## 📖 Getting Started
 
-```sh
-git submodule update --init --recursive
-```
+1. Clone the required repositories following the list above.
+2. Follow each repository's setup instructions.
+3. Refer to the `docs/` folder for additional information.
 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or issues, contact [your-email@example.com](mailto:luismab95@gmail.com).
+For questions or issues, contact [luismab95@gmail.com](mailto:luismab95@gmail.com).
 
