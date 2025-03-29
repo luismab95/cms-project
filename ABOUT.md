@@ -60,7 +60,7 @@ This CMS is a modern and modular platform designed for web content management, s
   - **CMS content**
   - **File storage**
   - **Email handling**
-- Communication between microservices via RabbitMQ or Redis.
+- Communication between microservices via API REST with axios.
 
 ### 10. Administration and Dashboard
 - Control panel with usage metrics and activity tracking.
