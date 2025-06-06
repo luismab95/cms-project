@@ -18,7 +18,7 @@ After merging, the project follows this structure:
 
 ```plaintext
 /cms-project
-│-- cms-project/
+│-- cms-frontend/
 │-- cms-lib-database/
 │-- cms-ms-auth/
 │-- cms-ms-security/
