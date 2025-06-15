@@ -17,8 +17,14 @@ After cloning all repository you must do the following activities
 
     5.- Configure all .env files in all repository.
 
-    6.- Start all repository
+    6.- Copy uploads folder to cms-ms-file in root dir   
+
+    7.- Start all repository
             - for MS run `npm run start:dev`
             - for FRONT run `npm run start`
+
+    8.- Login in Frontend with role Admin (review credentials_users.txt file).
+
+    9.- Update Parameters in Frontend (Email credentials) and more.   
 
 This is all enjoy =)
